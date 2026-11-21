@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "1-cover.jpg", "path": "/#trophy/5", "note": "Checklist with 20 earned, the Vice City, Baby! guide open, progress and filters visible", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-roadmap.jpg", "path": "/#roadmap", "note": "Six-stage roadmap with per-stage progress and the stage-3 missable reasons", "viewport": { "width": 1280, "height": 800 }, "scroll": 250 },
+  { "file": "3-filters.jpg", "path": "/#filters/story/spoiler", "note": "Story filter with spoiler shield on; earned story trophies reveal, the rest stay hidden", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-progress.jpg", "path": "/#filters/collectible", "note": "Collectible filter with target counts and the card-set guide open", "viewport": { "width": 1280, "height": 800 } }
 ]
